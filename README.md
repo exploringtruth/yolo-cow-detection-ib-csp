@@ -74,66 +74,62 @@
 
 ## Analysis
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <th align="center" width="50%">Graph Analysis</th>
-      <th align="center" width="50%">Table Summary</th>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="image/graph.png" height="300">
-      </td>
-      <td align="center" valign="middle">
-        <img src="image/table.png" height="300">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="image/graph.png" alt="Graph Analysis" width="49%" />
+  <img src="image/table.png" alt="Table Summary" width="49%" />
+</p>
 
 ---
 
 ## Dataset Samples
 
 ### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/1/Front/IMG_2259.jpg" height="300"> | <img src="Dataset/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="Dataset/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 ### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/2/Front/IMG_2268.jpg" height="300"> | <img src="Dataset/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="Dataset/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 ### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/3/Front/IMG_2276.jpg" height="300"> | <img src="Dataset/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="Dataset/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 ### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/4/Front/IMG_2284.jpg" height="300"> | <img src="Dataset/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="Dataset/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 ### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/5/Front/IMG_2289.jpg" height="300"> | <img src="Dataset/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="Dataset/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 ### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/6/Front/IMG_2294.jpg" height="300"> | <img src="Dataset/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="Dataset/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 ### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/7/Front/IMG_2297.jpg" height="300"> | <img src="Dataset/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="Dataset/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 ### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="Dataset/8/Front/IMG_2301.jpg" height="300"> | <img src="Dataset/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="Dataset/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="Dataset/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
 
 ---
 
@@ -142,217 +138,257 @@
 ### YOLOv8 Nano (`CSP_Model_1`)
 
 #### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/1/Front/IMG_2259.jpg" height="300"> | <img src="result/CSP_Model_1/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 #### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/2/Front/IMG_2268.jpg" height="300"> | <img src="result/CSP_Model_1/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 #### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/3/Front/IMG_2276.jpg" height="300"> | <img src="result/CSP_Model_1/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 #### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/4/Front/IMG_2284.jpg" height="300"> | <img src="result/CSP_Model_1/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 #### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/5/Front/IMG_2289.jpg" height="300"> | <img src="result/CSP_Model_1/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 #### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/6/Front/IMG_2294.jpg" height="300"> | <img src="result/CSP_Model_1/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 #### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/7/Front/IMG_2297.jpg" height="300"> | <img src="result/CSP_Model_1/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 #### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_1/8/Front/IMG_2301.jpg" height="300"> | <img src="result/CSP_Model_1/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_1/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_1/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
 
 ---
 
 ### YOLOv8 Small (`CSP_Model_2`)
 
 #### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/1/Front/IMG_2259.jpg" height="300"> | <img src="result/CSP_Model_2/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 #### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/2/Front/IMG_2268.jpg" height="300"> | <img src="result/CSP_Model_2/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 #### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/3/Front/IMG_2276.jpg" height="300"> | <img src="result/CSP_Model_2/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 #### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/4/Front/IMG_2284.jpg" height="300"> | <img src="result/CSP_Model_2/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 #### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/5/Front/IMG_2289.jpg" height="300"> | <img src="result/CSP_Model_2/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 #### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/6/Front/IMG_2294.jpg" height="300"> | <img src="result/CSP_Model_2/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 #### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/7/Front/IMG_2297.jpg" height="300"> | <img src="result/CSP_Model_2/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 #### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_2/8/Front/IMG_2301.jpg" height="300"> | <img src="result/CSP_Model_2/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_2/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_2/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
 
 ---
 
 ### YOLOv8 Medium (`CSP_Model_3`)
 
 #### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/1/Front/IMG_2259.jpg" height="300"> | <img src="result/CSP_Model_3/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 #### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/2/Front/IMG_2268.jpg" height="300"> | <img src="result/CSP_Model_3/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 #### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/3/Front/IMG_2276.jpg" height="300"> | <img src="result/CSP_Model_3/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 #### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/4/Front/IMG_2284.jpg" height="300"> | <img src="result/CSP_Model_3/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 #### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/5/Front/IMG_2289.jpg" height="300"> | <img src="result/CSP_Model_3/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 #### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/6/Front/IMG_2294.jpg" height="300"> | <img src="result/CSP_Model_3/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 #### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/7/Front/IMG_2297.jpg" height="300"> | <img src="result/CSP_Model_3/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 #### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_3/8/Front/IMG_2301.jpg" height="300"> | <img src="result/CSP_Model_3/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_3/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_3/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
 
 ---
 
 ### YOLOv8 Large (`CSP_Model_4`)
 
 #### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/1/Front/IMG_2259.jpg" height="300"> | <img src="result/CSP_Model_4/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 #### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/2/Front/IMG_2268.jpg" height="300"> | <img src="result/CSP_Model_4/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 #### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/3/Front/IMG_2276.jpg" height="300"> | <img src="result/CSP_Model_4/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 #### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/4/Front/IMG_2284.jpg" height="300"> | <img src="result/CSP_Model_4/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 #### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/5/Front/IMG_2289.jpg" height="300"> | <img src="result/CSP_Model_4/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 #### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/6/Front/IMG_2294.jpg" height="300"> | <img src="result/CSP_Model_4/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 #### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/7/Front/IMG_2297.jpg" height="300"> | <img src="result/CSP_Model_4/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 #### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_4/8/Front/IMG_2301.jpg" height="300"> | <img src="result/CSP_Model_4/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_4/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_4/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
 
 ---
 
 ### YOLOv8 Extra Large (`CSP_Model_5`)
 
 #### 1 Cow
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/1/Front/IMG_2259.jpg" height="300"> | <img src="result/CSP_Model_5/1/Back/IMG_2319.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/1/Front/IMG_2259.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/1/Back/IMG_2319.jpg" alt="Back" width="49%" />
+</p>
 
 #### 2 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/2/Front/IMG_2268.jpg" height="300"> | <img src="result/CSP_Model_5/2/Back/IMG_2327.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/2/Front/IMG_2268.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/2/Back/IMG_2327.jpg" alt="Back" width="49%" />
+</p>
 
 #### 3 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/3/Front/IMG_2276.jpg" height="300"> | <img src="result/CSP_Model_5/3/Back/IMG_2335.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/3/Front/IMG_2276.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/3/Back/IMG_2335.jpg" alt="Back" width="49%" />
+</p>
 
 #### 4 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/4/Front/IMG_2284.jpg" height="300"> | <img src="result/CSP_Model_5/4/Back/IMG_2341.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/4/Front/IMG_2284.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/4/Back/IMG_2341.jpg" alt="Back" width="49%" />
+</p>
 
 #### 5 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/5/Front/IMG_2289.jpg" height="300"> | <img src="result/CSP_Model_5/5/Back/IMG_2346.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/5/Front/IMG_2289.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/5/Back/IMG_2346.jpg" alt="Back" width="49%" />
+</p>
 
 #### 6 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/6/Front/IMG_2294.jpg" height="300"> | <img src="result/CSP_Model_5/6/Back/IMG_2350.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/6/Front/IMG_2294.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/6/Back/IMG_2350.jpg" alt="Back" width="49%" />
+</p>
 
 #### 7 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/7/Front/IMG_2297.jpg" height="300"> | <img src="result/CSP_Model_5/7/Back/IMG_2351.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/7/Front/IMG_2297.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/7/Back/IMG_2351.jpg" alt="Back" width="49%" />
+</p>
 
 #### 8 Cows
-| Front | Back |
-| :---: | :---: |
-| <img src="result/CSP_Model_5/8/Front/IMG_2301.jpg" height="300"> | <img src="result/CSP_Model_5/8/Back/IMG_2354.jpg" height="300"> |
+<p align="center">
+  <img src="result/CSP_Model_5/8/Front/IMG_2301.jpg" alt="Front" width="49%" />
+  <img src="result/CSP_Model_5/8/Back/IMG_2354.jpg" alt="Back" width="49%" />
+</p>
