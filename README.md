@@ -4,71 +4,11 @@
 - [Analysis](#analysis)
 - [Dataset Samples](#dataset-samples)
 - [Resulting Image Samples](#resulting-image-samples)
-
-<details>
-<summary><b>YOLOv8 Nano (CSP_Model_1)</b></summary>
-
-  - [1 Cow](#1-cow-1)
-  - [2 Cows](#2-cows-1)
-  - [3 Cows](#3-cows-1)
-  - [4 Cows](#4-cows-1)
-  - [5 Cows](#5-cows-1)
-  - [6 Cows](#6-cows-1)
-  - [7 Cows](#7-cows-1)
-  - [8 Cows](#8-cows-1)
-</details>
-
-<details>
-<summary><b>YOLOv8 Small (CSP_Model_2)</b></summary>
-
-  - [1 Cow](#1-cow-2)
-  - [2 Cows](#2-cows-2)
-  - [3 Cows](#3-cows-2)
-  - [4 Cows](#4-cows-2)
-  - [5 Cows](#5-cows-2)
-  - [6 Cows](#6-cows-2)
-  - [7 Cows](#7-cows-2)
-  - [8 Cows](#8-cows-2)
-</details>
-
-<details>
-<summary><b>YOLOv8 Medium (CSP_Model_3)</b></summary>
-
-  - [1 Cow](#1-cow-3)
-  - [2 Cows](#2-cows-3)
-  - [3 Cows](#3-cows-3)
-  - [4 Cows](#4-cows-3)
-  - [5 Cows](#5-cows-3)
-  - [6 Cows](#6-cows-3)
-  - [7 Cows](#7-cows-3)
-  - [8 Cows](#8-cows-3)
-</details>
-
-<details>
-<summary><b>YOLOv8 Large (CSP_Model_4)</b></summary>
-
-  - [1 Cow](#1-cow-4)
-  - [2 Cows](#2-cows-4)
-  - [3 Cows](#3-cows-4)
-  - [4 Cows](#4-cows-4)
-  - [5 Cows](#5-cows-4)
-  - [6 Cows](#6-cows-4)
-  - [7 Cows](#7-cows-4)
-  - [8 Cows](#8-cows-4)
-</details>
-
-<details>
-<summary><b>YOLOv8 Extra Large (CSP_Model_5)</b></summary>
-
-  - [1 Cow](#1-cow-5)
-  - [2 Cows](#2-cows-5)
-  - [3 Cows](#3-cows-5)
-  - [4 Cows](#4-cows-5)
-  - [5 Cows](#5-cows-5)
-  - [6 Cows](#6-cows-5)
-  - [7 Cows](#7-cows-5)
-  - [8 Cows](#8-cows-5)
-</details>
+  - [YOLOv8 Nano (CSP_Model_1)](#csp_model_1)
+  - [YOLOv8 Small (CSP_Model_2)](#csp_model_2)
+  - [YOLOv8 Medium (CSP_Model_3)](#csp_model_3)
+  - [YOLOv8 Large (CSP_Model_4)](#csp_model_4)
+  - [YOLOv8 Extra Large (CSP_Model_5)](#csp_model_5)
 
 ---
 
@@ -135,7 +75,8 @@
 
 ## Resulting Image Samples
 
-### YOLOv8 Nano (`CSP_Model_1`)
+<details id="csp_model_1">
+<summary><b>YOLOv8 Nano (CSP_Model_1)</b></summary>
 
 #### 1 Cow
 <p align="center">
@@ -184,10 +125,12 @@
   <img src="result/CSP_Model_1/8/Front/IMG_2301.jpg" alt="Front" width="400" />
   <img src="result/CSP_Model_1/8/Back/IMG_2354.jpg" alt="Back" width="400" />
 </p>
+</details>
 
 ---
 
-### YOLOv8 Small (`CSP_Model_2`)
+<details id="csp_model_2">
+<summary><b>YOLOv8 Small (CSP_Model_2)</b></summary>
 
 #### 1 Cow
 <p align="center">
@@ -236,10 +179,12 @@
   <img src="result/CSP_Model_2/8/Front/IMG_2301.jpg" alt="Front" width="400" />
   <img src="result/CSP_Model_2/8/Back/IMG_2354.jpg" alt="Back" width="400" />
 </p>
+</details>
 
 ---
 
-### YOLOv8 Medium (`CSP_Model_3`)
+<details id="csp_model_3">
+<summary><b>YOLOv8 Medium (CSP_Model_3)</b></summary>
 
 #### 1 Cow
 <p align="center">
@@ -288,10 +233,12 @@
   <img src="result/CSP_Model_3/8/Front/IMG_2301.jpg" alt="Front" width="400" />
   <img src="result/CSP_Model_3/8/Back/IMG_2354.jpg" alt="Back" width="400" />
 </p>
+</details>
 
 ---
 
-### YOLOv8 Large (`CSP_Model_4`)
+<details id="csp_model_4">
+<summary><b>YOLOv8 Large (CSP_Model_4)</b></summary>
 
 #### 1 Cow
 <p align="center">
@@ -340,10 +287,12 @@
   <img src="result/CSP_Model_4/8/Front/IMG_2301.jpg" alt="Front" width="400" />
   <img src="result/CSP_Model_4/8/Back/IMG_2354.jpg" alt="Back" width="400" />
 </p>
+</details>
 
 ---
 
-### YOLOv8 Extra Large (`CSP_Model_5`)
+<details id="csp_model_5">
+<summary><b>YOLOv8 Extra Large (CSP_Model_5)</b></summary>
 
 #### 1 Cow
 <p align="center">
@@ -392,3 +341,4 @@
   <img src="result/CSP_Model_5/8/Front/IMG_2301.jpg" alt="Front" width="400" />
   <img src="result/CSP_Model_5/8/Back/IMG_2354.jpg" alt="Back" width="400" />
 </p>
+</details>
